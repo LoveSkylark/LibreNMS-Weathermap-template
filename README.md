@@ -1,0 +1,1 @@
+# LNMS-Weathermap-template
