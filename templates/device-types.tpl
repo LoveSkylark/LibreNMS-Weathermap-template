@@ -46,4 +46,4 @@ NODE firewall
 
 NODE ISP 
         ICON 50 50 configs/icons/{node:this:ISP}.png
-        INFOURL {node:this:WEB}
+        INFOURL {node:this:URL}
